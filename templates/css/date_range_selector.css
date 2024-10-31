@@ -1,0 +1,29 @@
+/*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
+
+.DateRangeSelector {
+
+}
+
+.DateRangeSelector-item {
+    margin-right:5px;
+    margin-left:5px;
+}
+
+.item-label {
+    font-weight: 700;
+    margin: 0 .25em .25em 0;
+    display: block;
+}
+
+.DateRangeSelector-item>input {
+    width: 100%
+}
+
+@media (min-width: 570px) {
+    .DateRangeSelector-item {
+        -webkit-flex-basis: auto;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+        min-width: 150px
+    }
+}

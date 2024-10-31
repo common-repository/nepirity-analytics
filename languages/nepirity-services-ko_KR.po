@@ -1,0 +1,311 @@
+# Korean translations for nepirity-services package
+# nepirity-services 패키지에 대한 한국어 번역문.
+# Copyright (C) 2017 THE nepirity-services'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the nepirity-services package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nepirity-services\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-29 14:49+0900\n"
+"PO-Revision-Date: 2017-07-24 13:56+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: modules/setup.php:54
+msgid ""
+"Before installing the plugin, we recommend that you upgrade to WordPress "
+"first."
+msgstr "플러그인을 설치하기전에, 먼저 워드프레스를 업그레이드 하시기 바랍니다."
+
+#: templates/admin/settings/general.php:67
+msgid "Can't load google profile information. Please setup plugin again."
+msgstr ""
+"구글 프로파일 정보를 가져올 수 없습니다. 플러그인을 다시 설정해 주시기 바랍니"
+"다."
+
+#: modules/setup.php:152
+msgid "Click Start to Configure"
+msgstr "설치 마법사를 시작하기 위해서는 시작 버튼을 클릭해 주시기 바랍니다."
+
+#: modules/settings.php:168
+msgid "Click [Here], If you want to bring up the Nepirity Setup Wizard."
+msgstr "플러그인 설치 마법사를 다시 시작하시려면 [Here]을 클릭하시기 바랍니다."
+
+#: templates/admin/settings/general.php:45
+msgid "Data may not be collected correctly."
+msgstr "데이터가 올바르게 수집되지 않을 수 있습니다."
+
+#: modules/settings.php:61
+msgid "Dismiss this notice."
+msgstr "숨기기"
+
+#: templates/admin/settings/general.php:43
+msgid "Domain information is incorrect."
+msgstr "도메인 정보가 올바르지 않습니다."
+
+#: modules/setup.php:37
+msgid "Done"
+msgstr "완료"
+
+#: modules/setup.php:163
+msgid "E-Mail"
+msgstr "이메일"
+
+#: modules/settings.php:391
+msgid "Enable Standard Tracking"
+msgstr "Tracking 활성화"
+
+#: modules/admin.php:130
+msgid "General"
+msgstr "일반"
+
+#: modules/setup.php:98
+msgid "Go Back"
+msgstr "뒤로"
+
+#: modules/settings.php:346
+msgid "Google Account Service Key"
+msgstr "구글 계정 서비스 키"
+
+#: modules/settings.php:163
+msgid "Google Account Setting"
+msgstr "구글 계정 설정"
+
+#: modules/setup.php:220 modules/settings.php:321
+msgid "Google Authentication Type"
+msgstr "구글 인증 형태"
+
+#. The same with google account
+#: modules/settings.php:359
+msgid "Google OAuth Code"
+msgstr "구글 OAuth 코드"
+
+#: modules/setup.php:240
+msgid "Google OAuth Setting"
+msgstr "구글 OAuth 설정"
+
+#: modules/settings.php:516
+msgid "Google Profile Error!"
+msgstr "구글 프로파일 에러"
+
+#: modules/setup.php:286
+msgid "Google Profile Setting"
+msgstr "구글 프로파일 설정"
+
+#: modules/setup.php:248
+msgid "Google Service Account Setting"
+msgstr "구글 서비스 계정 설정"
+
+#: modules/setup.php:408
+msgid "Google Setting information is not appropriate."
+msgstr "구글 설정 정보가 올바르지 않습니다."
+
+#: modules/settings.php:190
+msgid "Goolge Tracking Options"
+msgstr "구글 Tracking 옵션"
+
+#: modules/settings.php:178
+msgid "Goolge View Setting"
+msgstr "구글 뷰 설정"
+
+#: modules/setup.php:178
+msgid ""
+"If you enter an email address, the account will be created automatically "
+"with the nepirity key."
+msgstr ""
+"이메일 주소를 입력하시면, Nepirity 키와 함께 서비스 키가 자동으로 생성됩니다."
+
+#: modules/settings.php:179
+msgid ""
+"In order to use Nepirity Analysis Service, please select your Goolge view "
+"setting."
+msgstr ""
+"네피리티 분석 서비스를 이용하기 위해서는 아래 구글 뷰 정보를 설정하시기 바랍"
+"니다."
+
+#: modules/settings.php:132
+msgid "License key to manage plug-in information."
+msgstr "플러그인 정보를 관리하기 위한 라이센스 키입니다."
+
+#: modules/admin.php:56
+msgid "Nepirity"
+msgstr "네피리티"
+
+#: modules/setup.php:151
+msgid "Nepirity Analytics (Setup Wizard)"
+msgstr "Nepirity Analytics (설치 마법사)"
+
+#: modules/setup.php:161
+msgid "Nepirity Key"
+msgstr "네피리티 키"
+
+#: modules/setup.php:180
+msgid "Nepirity Plugin Setting"
+msgstr "네피리티 플러그인 설정"
+
+#: modules/settings.php:299
+msgid "Nepirity Service Key"
+msgstr "네피리티 서비스 키"
+
+#: modules/settings.php:130
+msgid "Nepirity Settings"
+msgstr "네피리티 설정"
+
+#: modules/setup.php:185
+msgid "Nepirity key information is not appropriate."
+msgstr "네피리티 키 정보가 올바르지 않습니다."
+
+#: modules/setup.php:30
+msgid "Next"
+msgstr "다음"
+
+#: modules/settings.php:134
+msgid ""
+"Please click the update button below when the license information is "
+"modified."
+msgstr "라이센스 정보가 수정되면 아래의 수정 버튼을 클릭해 주시기 바랍니다."
+
+#: templates/admin/settings/general.php:79
+msgid ""
+"Please feel free to contact us if there are any errors in the plugin or if "
+"you have any comments."
+msgstr ""
+"플러그인에 오류가 있거나, 개선사항이 있으면 언제든지 알려주시기 바랍니다."
+
+#: templates/admin/settings/general.php:86
+msgid "Please give us your feedback."
+msgstr "여러분의 의견을 기다립니다."
+
+#: modules/setup.php:256
+msgid "Please save it again."
+msgstr "다시 저장해 주시기 바랍니다."
+
+#: modules/setup.php:218
+msgid "Please select a Google authentication method."
+msgstr "구글 인증 방법을 선택해 주시기 바랍니다."
+
+#: modules/setup.php:410
+msgid "Please set up your account information correctly."
+msgstr "계정 정보를 올바르게 입력해 주시기 바랍니다."
+
+#: modules/setup.php:241
+msgid "Please, enter Google OAuth code."
+msgstr "구글 OAuth 코드를 입력해 주시기 바랍니다."
+
+#: modules/setup.php:250
+msgid "Please, enter your Google Service account information."
+msgstr "구글 서비스 계정 정보를 입력해 주시기 바랍니다."
+
+#: modules/setup.php:176
+msgid "Please, enter your Nepirity plugin key or E-mail address."
+msgstr "Nepirity 플러그인 키 정보 또는 이메일 주소를 입력해 주시기 바랍니다."
+
+#: modules/setup.php:186
+msgid ""
+"Please, input appropriate Nepirity key information and check that the key "
+"settings are correct."
+msgstr "올바른 네피리티 키 정보를 입력해 주시기 바랍니다."
+
+#: modules/setup.php:287
+msgid "Please, select your Google View information."
+msgstr "구글 뷰 정보를 선택해 주시기 바랍니다."
+
+#: modules/admin.php:80 modules/views.php:106 nepirity-analytics.php:143
+msgid "Settings"
+msgstr "설정"
+
+#: modules/settings.php:59
+msgid "Settings saved."
+msgstr "설정 정보가 저장되었습니다."
+
+#: modules/setup.php:33
+msgid "Start"
+msgstr "시작"
+
+#: templates/admin/settings/general.php:49
+msgid "The two domains must match."
+msgstr "두개의 주소가 반드시 일치되어야 합니다."
+
+#: modules/setup.php:52
+msgid "This plugin has not been tested with your version of WordPress"
+msgstr ""
+"현재 사용하고 있는 워드프레스 버전에 플러그인이 테스트 되지 않았습니다."
+
+#: modules/settings.php:390
+msgid "Tracking Option"
+msgstr "Tracking 옵션"
+
+#: modules/settings.php:398
+msgid "Tracking Script"
+msgstr "Tracking 스크립트"
+
+#: modules/settings.php:154 modules/settings.php:203
+msgid "Update"
+msgstr "수정"
+
+#: modules/setup.php:258
+msgid "When you leave this page, the previously saved values are retained."
+msgstr "이 페이지를 나가면, 이전에 저장된 값은 유지됩니다."
+
+#: modules/settings.php:353
+msgid "You can check Google OAuth code"
+msgstr "구글 OAuth 코드를 확인 하실 있습니다."
+
+#: modules/setup.php:253
+msgid "You can not modify the encrypted key."
+msgstr "암호화된 키 값은 수정 하실 수 없습니다."
+
+#: templates/admin/settings/general.php:81
+msgid ""
+"You can send email us at contact@nepirity.com or fill out the form {here}."
+msgstr ""
+"contact@nepirity.com 으로 메일 주시거나, {here}에서 양식을 작성해 주실 수 있"
+"습니다."
+
+#: modules/settings.php:392
+msgid "You don't need to enable this if already inserted Google tracking code."
+msgstr ""
+"이미 Tracking 코드가 삽입되었으면, 이 옵션을 활성화 할 필요가 없습니다."
+
+#: modules/setup.php:191
+msgid "Your current site address is:"
+msgstr "여러분의 사이트 주소는 다음과 같습니다."
+
+#: templates/admin/settings/general.php:47
+msgid ""
+"Your wordpress domain is <b>{siteurl}</b>, but the currently configured "
+"Google analytics domain is <b>{propertyurl}</b>."
+msgstr ""
+"워드프레스 주소는 <b>{siteurl}</b>이지만, 현재 설정된 구글 Analytics 도메인"
+"은 <b>{propertyurl}</b>입니다."
+
+#: templates/admin/settings/general.php:83 modules/settings.php:169
+msgid "[Here]"
+msgstr "[이곳]"
+
+#: modules/settings.php:370
+msgid "account"
+msgstr "계정"
+
+#: modules/settings.php:375
+msgid "property"
+msgstr "속성"
+
+#: modules/settings.php:380
+msgid "view"
+msgstr "뷰"
+
+#. Description of the plugin
+msgid ""
+"Nepirity Analytics is a plugin that provides web traffic data analysis "
+"feature with data gathered from Google Analytics."
+msgstr ""
+"Nepirity Analytics 플러그인은 Google Analytics 으로부터 수집된 데이터를 분석"
+"하여 정보를 제공합니다."
